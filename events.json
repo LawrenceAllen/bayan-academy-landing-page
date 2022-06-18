@@ -1,0 +1,175 @@
+{
+    "events": [
+        {
+            "type": "bayan",
+            "title": "GovTech: Co-Designing Solutions with The Government",
+            "image_src": "bd029_govtech",
+            "date": "2020-04-11",
+            "start_time": "02:00 PM",
+            "end_time": "03:30 PM",
+            "location": "Zoom Webinar"
+        },
+        {
+            "type": "bayan",
+            "title": "Guiding Social Enterprises Through The Pandemic Economy",
+            "image_src": "9c95d_se",
+            "date": "2020-04-06",
+            "start_time": "02:00 PM",
+            "end_time": "03:30 PM",
+            "location": "Zoom Webinar"
+        },
+        {
+            "type": "bayan",
+            "title": "Community Building in a Time of Social Distancing",
+            "image_src": "28803_community_building",
+            "date": "2020-04-04",
+            "start_time": "02:00 PM",
+            "end_time": "03:30 PM",
+            "location": "Zoom Webinar"
+        },
+        {
+            "type": "bayan",
+            "title": "Leading in Times of Adversity and Reimagining REX",
+            "image_src": "5f4f8_rex",
+            "date": "2020-04-02",
+            "start_time": "10:00 AM",
+            "end_time": "12:00 PM",
+            "location": "Zoom Webinar"
+        },
+        {
+            "type": "best",
+            "title": "Introductory Meeting - Junior and Senior High School Teachers",
+            "image_src": "25b63_ateneo_logo_2",
+            "date": "2019-09-30",
+            "start_time": "01:00 PM",
+            "end_time": "05:00 PM",
+            "location": "Ateneo Graduate School of Business"
+        },
+        {
+            "type": "best",
+            "title": "Master in Entrepreneurship for Social Enterprise Development Batch 3 Application",
+            "image_src": "25b63_ateneo_logo_2",
+            "date": "2019-08-23",
+            "start_time": "08:00 AM",
+            "end_time": "07:00 PM",
+            "location": ""
+        },
+        {
+            "type": "best",
+            "title": "Launching of Knowledge Resource Center and Website",
+            "image_src": "a463a_acrobat_2018-09-25_12-04-15",
+            "date": "2018-08-25",
+            "start_time": "02:00 PM",
+            "end_time": "04:00 PM",
+            "location": "Bayan Edge Office, 2F Calderon Bldg, 827 EDSA, Brgy. South Triangle, Quezon City"
+        },
+        {
+            "type": "top",
+            "title": "Revalida 3 - RAMCAR Battery Group Cadet Engineering Program (Module 3: Leadership and Strategic Management Skills)",
+            "image_src": "8fbae_ramcar",
+            "date": "2019-10-29",
+            "start_time": "08:00 AM",
+            "end_time": "05:00 PM",
+            "location": "RAMCAR Center, 80 Don A. Roces Ave, Diliman, Quezon City"
+        },
+        {
+            "type": "top",
+            "title": "Class Lecture 2 - RAMCAR Battery Group Cadet Engineering Program (Module 3: Leadership and Strategic Management Skills)",
+            "image_src": "8fbae_ramcar",
+            "date": "2019-10-18",
+            "start_time": "08:00 AM",
+            "end_time": "05:00 PM",
+            "location": "RAMCAR Center, 80 Don A. Roces Ave, Diliman, Quezon City"
+        },
+        {
+            "type": "top",
+            "title": "Class Lecture 1 - RAMCAR Battery Group Cadet Engineering Program (Module 3: Leadership and Strategic Management Skills)",
+            "image_src": "8fbae_ramcar",
+            "date": "2019-10-13",
+            "start_time": "08:00 AM",
+            "end_time": "05:00 PM",
+            "location": "RAMCAR Center, 80 Don A. Roces Ave, Diliman, Quezon City"
+        },
+        {
+            "type": "top",
+            "title": "Social Enterprise Development Training for CSR Officers",
+            "image_src": "102a3_csr_training",
+            "date": "2019-09-22",
+            "start_time": "08:00 AM",
+            "end_time": "05:00 PM",
+            "location": "Bayan Academy, EDSA, Quezon City"
+        },
+        {
+            "type": "great",
+            "title": "Basic Programming Using Python Part 2 (Batch 2)",
+            "image_src": "4f2d4_programming",
+            "date": "2020-05-01",
+            "start_time": "09:00 AM",
+            "end_time": "01:00 PM",
+            "location": "Online Training"
+        },
+        {
+            "type": "great",
+            "title": "Social Enterprise Development Training for CSR Officers",
+            "image_src": "183c1_programming",
+            "date": "2020-04-25",
+            "start_time": "09:00 AM",
+            "end_time": "06:00 PM",
+            "location": "Online Training"
+        },
+        {
+            "type": "great",
+            "title": "Social Enterprise Development Training for CSR Officers",
+            "image_src": "f4460_contact_center",
+            "date": "2020-04-25",
+            "start_time": "01:00 PM",
+            "end_time": "06:00 PM",
+            "location": "Online Training"
+        },
+        {
+            "type": "great",
+            "title": "Social Enterprise Development Training for CSR Officers",
+            "image_src": "cee81_programming",
+            "date": "2020-04-18",
+            "start_time": "09:00 AM",
+            "end_time": "01:00 PM",
+            "location": "Online Training"
+        },
+        {
+            "type": "aew",
+            "title": "Pinoy Tsuper Hero Year 4 Phase 2 Grand Finals Awarding Ceremony",
+            "image_src": "9c95d_se",
+            "date": "2019-10-21",
+            "start_time": "08:00 AM",
+            "end_time": "05:00 PM",
+            "location": ""
+        },
+        {
+            "type": "aew",
+            "title": "6th Excellence in Educational Transformation Awards Awarding Ceremonies",
+            "image_src": "9c95d_se",
+            "date": "2020-10-19",
+            "start_time": "08:00 AM",
+            "end_time": "05:00 PM",
+            "location": ""
+        },
+        {
+            "type": "aew",
+            "title": "Pinoy Tsuper Hero Year 4 Phase 3 Training",
+            "image_src": "9c95d_se",
+            "date": "2019-10-18",
+            "start_time": "08:00 AM",
+            "end_time": "05:00 PM",
+            "location": ""
+        },
+        {
+            "type": "aew",
+            "title": "Pinoy Tsuper Hero Year 4 Phase 2 Top 10 Awarding Ceremony",
+            "image_src": "9c95d_se",
+            "date": "2019-08-27",
+            "start_time": "08:00 AM",
+            "end_time": "05:00 PM",
+            "location": ""
+        }
+    ]
+}

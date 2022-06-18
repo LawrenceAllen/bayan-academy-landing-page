@@ -1,0 +1,81 @@
+/* Header */
+
+#desktop-navbar {
+  display: none;
+}
+
+#mobile-navbar {
+  display: block;
+}
+
+.mobile-navbar-top {
+  position: relative;
+  height: 50px;
+  width: 100%;
+  padding-top: 8px;
+  border-bottom: 4px solid #FECD04;
+}
+
+.bayan-logo {
+  position: absolute;
+  width: 28px;
+  left: 16%;
+}
+
+.burger-icon {
+  position: absolute;
+  width: 28px;
+  right: 2%;
+}
+
+.mobile-navbar-content {
+  display: none;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 500px;
+  padding: 28px;
+}
+
+.mobile-navbar-content a {
+  font-size: 1.1rem;
+  color: #3E3E44;
+  text-decoration: none;
+}
+
+.search-bar-container {
+  margin-right: 0px;
+}
+
+.search-bar-container input {
+  width: 100%;
+}
+
+#pms-link-id {
+  color: rgb(24, 73, 144);
+  width: auto;
+}
+
+#krc-link-id {
+  color: rgb(24, 73, 144);
+  width: auto;
+}
+
+/* About Us */
+
+.about-us-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: auto;
+  background-color: #F8FAFE;
+}
+
+.about-us-container div {
+  padding: 30px 0px 0px 32px;
+}
+
+.home-photo {
+  margin-top: 84px;
+  height: 80%;
+  width: 80%;
+}
